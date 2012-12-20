@@ -1,0 +1,5 @@
+name: EmeraldEndPortal
+version: 0.1.0
+description: EmeraldEndPortal allows players to convert blocks of emerald to end portal frames and back.
+author: hoqhuuep
+main: com.github.hoqhuuep.minecraft.bukkit.plugins.emeraldendportal.EmeraldEndPortalPlugin
